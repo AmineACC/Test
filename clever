@@ -1,0 +1,20 @@
+git init : initialise with github repository
+
+git config --global user.name/user.email : configuration of user's infos in terminal environment
+
+git clone https://[user's_token]github.com/[user_name]/[repository_name]:clone repository from github to terminal environment
+
+git add . : declare files which we want to push to original repository
+
+git commit : make files ready to push or commit -m [commit message]
+ 
+git push : push all added files to to original repository in github
+
+git pull : retrieve github old version repository modified by another collaborator before pushing the new update  
+
+git branch [new branch]: create new branch / git branch -b [new branch] : to create a branch and switch to it at the same time
+
+git status : view all selected files and their changes
+
+git log : display all recent updates and user that
+ 
